@@ -1,0 +1,6 @@
+{
+  "name": "UNNATI — Hyperlocal Opportunity Ecosystem",
+  "description": "Discover local skills, jobs, training, sports, and income opportunities in Raichur, Karnataka and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
